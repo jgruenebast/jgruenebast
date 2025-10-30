@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jgruenebast
+- 👋 Hi, I’m Janne Grünebast
 - 👀 I’m interested in Parasites Genomics
-- 🌱 I’m currently learning how to code in Perl and R for my Postdoc
+- 🌱 I’m a Postdoc at the Institute for Genome Sciences at the University of Maryland, Baltimore
 - 📫 How to reach me: JGruenebast@som.umaryland.edu
 - 😄 Pronouns: she/her/hers
 
